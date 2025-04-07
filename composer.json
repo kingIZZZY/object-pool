@@ -22,11 +22,11 @@
     ],
     "require": {
         "php": "^8.2",
-        "hyperf/coroutine": "~3.1.0",
+        "hyperf/coroutine": "3.2.x-dev",
         "hyperf/engine": "^2.1",
-        "hyperf/coordinator": "~3.1.0",
-        "hyperf/contract": "~3.1.0",
-        "hyperf/support": "~3.1.0",
+        "hyperf/coordinator": "3.2.x-dev",
+        "hyperf/contract": "3.2.x-dev",
+        "hyperf/support": "3.2.x-dev",
         "nesbot/carbon": "^2.72.6"
     },
     "autoload": {
